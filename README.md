@@ -47,7 +47,6 @@ A multimodal AI-powered application designed to analyze refrigerator inventory a
 
 **Tech Stack:** Python | Databricks | Gradio | Llama 4 Maverick | Meta Llama 3.3 70B | OpenAI SDK
 
-> 📌 AI Kitchen repository and complete project documentation coming soon.
 
 ---
 
