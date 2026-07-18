@@ -71,7 +71,7 @@ Worked on the design and development of AI Kitchen as part of a 6-month industry
 
 ## 🤝 Connect With Me
 
-[LinkedIn](linkedin.com/in/riya-yadav31/)
+[LinkedIn](https://www.linkedin.com/in/riya-yadav31/)
 
 ---
 
